@@ -27,3 +27,7 @@ MonoBehaviour:
     Lines:
     - StartSecond: 0
       Text: '[ Thump ]'
+  - clip: {fileID: 8300000, guid: aa2745c572e090a4f83c804a64bba425, type: 3}
+    Lines:
+    - StartSecond: 0
+      Text: 'Song: Pikmin - The Forest of Hope'
